@@ -4,6 +4,7 @@ import java.util.List;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import Model.Clientes;
+import Model.Vendas;
 import logs.RegistroOperacoes;
 
 public class ClientesControl {
@@ -18,6 +19,9 @@ public class ClientesControl {
         this.clientes = clientes; // Inicializa a lista de clientes
         this.tableModel = tableModel; // Inicializa o modelo da tabela
         this.table = table; // Inicializa a tabela Swing
+    }
+
+    public ClientesControl() {
     }
 
     // Método para atualizar a tabela de exibição com dados do banco de dados
@@ -49,5 +53,9 @@ public class ClientesControl {
         new ClientesDAO().apagar(cpf);
         // Chama o método de exclusão no banco de dados
         atualizarTabela(); // Atualiza a tabela de exibição após a exclusão
+    }
+
+    public List<Vendas> listarTodos() {
+        return null;
     }
 }

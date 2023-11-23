@@ -3,3 +3,13 @@ Cliente CPF: das Apagado do Banco com Sucesso.
 Cliente CPF:  Apagado do Banco com Sucesso.
 Cliente CPF: dsadsa Cadastrado com Sucesso.
 Cliente CPF: dsadsa Atualizado com Sucesso.
+Carro da placa : 2193fads Cadastrado com Sucesso.
+Carro da placa :  Cadastrado com Sucesso.
+Carro da placa : AA Cadastrado com Sucesso.
+Carro da placa :  Apagado do Banco com Sucesso.
+Carro da placa :  Apagado do Banco com Sucesso.
+Carro da placa :  Apagado do Banco com Sucesso.
+Carro da placa : AA Apagado do Banco com Sucesso.
+Carro da placa :  Atualizado com Sucesso.
+Cliente CPF:  Cadastrado com Sucesso.
+Cliente CPF: A Cadastrado com Sucesso.

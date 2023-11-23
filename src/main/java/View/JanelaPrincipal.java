@@ -26,6 +26,9 @@ public class JanelaPrincipal extends JFrame{
 
         // Adicione o JTabbedPane ao JFrame
 
+        VendasPainel tab3 = new VendasPainel();
+        jTPane.add("Vendas", tab3);
+
 
         setBounds(100, 100, 600, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
